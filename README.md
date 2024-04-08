@@ -17,7 +17,7 @@ Here is some screenshots from the system:
 
 
 
-2. While motor is OFF (Temp < 30):
+2. While fan OFF (Temp < 30):
 ![image](https://github.com/dev-Youssef-Ahmed/Fan-Speed-Controller-with-Temperature/assets/153888401/67d42d46-1a95-458c-a26a-23ef598acd32)
 
 ![image](https://github.com/dev-Youssef-Ahmed/Fan-Speed-Controller-with-Temperature/assets/153888401/073ebbff-d2d1-4d7b-9459-685ffde371d6)
